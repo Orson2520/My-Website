@@ -39,3 +39,22 @@ color: chartreuse;
 .links:hover {
 background-color: dodgerblue;
 }
+h4 {
+background-color: bisque;
+font-size: 20;
+}
+h5 {
+background-color: lightblue;
+font-size: 20;
+}
+h6 {
+background-color: antiquewhite;
+font-size: 20;
+}
+h7 {
+background-color: #5ffd2d;
+font-size: 20;
+}
+body:hover {
+background-color: rosybrown;
+}
